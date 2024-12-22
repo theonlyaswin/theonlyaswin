@@ -4,7 +4,7 @@ Hi 👋 My name is Aswin
 ~ building cool stuffs
 ----------------------
 
-I am a person with a diverse set of skills. I love designing graphics, UI/UX and even hardware ! I can code a simple python script, any web app, even a complex AI and anything in between (given enough time 🤫) . I love tech and filimg so much that I even have a YouTube channel combining both!
+I am a person with a diverse set of skills. I love designing graphics, UI/UX and even hardware ! I can code a simple python script, any web app, even a complex AI and anything in between (given enough time 🤫) . I love tech and filimg so much that I am even planning to start a YouTube channel combining both!
 
 * 🌍  I'm based in Banglore, India
 * 🚀  I'm currently working on [NomadGigs](http://nomadgigs.com)
