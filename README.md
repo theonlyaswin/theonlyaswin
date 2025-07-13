@@ -71,22 +71,14 @@ Once upon a time, I was happily self-teaching myself to code when life said *"Pl
 const currentProjects = {
   status: "actively_breaking_things",
   projects: [
-    "🚀 Cool Product #1 - Because the world needs more cool stuff",
-    "🎯 Cool Product #2 - Making life easier, one bug at a time",
-    "🔧 Secret Project - Shh... it's a surprise!",
-    "📱 Mobile App - Teaching phones to be smarter"
+    "🚀 Fuscia Studios - Because the world needs more cool stuff",
+    "🎯 GRIND - Making fitness accessible",
+    "🔧 Creator Company - Shh... it's a surprise!",
   ],
   mood: "excited",
   coffee_level: "dangerously_high"
 };
 ```
-
-## 🎭 Fun Facts & Random Thoughts
-
-- 🎯 I've been both the problem and the solution in many meetings
-- ☕ My code runs on coffee and determination
-- 🎨 I believe every bug is just a feature waiting to be discovered
-
 ## 🌟 Professional Superpowers
 
 <div align="center">
